@@ -1,0 +1,32 @@
+{
+  "name": "Analytical Labs-subversion",
+  "author": "Tom Barber",
+  "description": "",
+  "license": "",
+  "project_page": "",
+  "source": "",
+  "summary": "",
+  "version": "1.0",
+  "checksums": {
+    "Copyright": "bb5554ad4547435d1818858700392354",
+    "LICENSE": "832a7d50d0a1cabafdbcb86556eaff18",
+    "META": "473a850ee29e5aaaa0e7da99306bc4b4",
+    "Modulefile": "89fc0a971911b5536b66872f97d29808",
+    "README": "33804184eee08ecfb7ea5308b1b96b5d",
+    "README.rst": "7a8483d15c99a2c4fa2fba708d14bf81",
+    "files/subversion.aug": "fd7fc72d0d1121a17293d755d592e2cd",
+    "manifests/backup.pp": "5a66e7ab45b319c0a4020d5f8a387c2e",
+    "manifests/base.pp": "038439153fb5b57fab37fba7ebb9880d",
+    "manifests/debian.pp": "b1811ac2d7fd420521be8b0cc0799b9f",
+    "manifests/init.pp": "fd6393b8a564ace9c5e81aec187ae239",
+    "manifests/svnrepo.pp": "f1c7c67d6f7e2ddc5d1a05e793700ce4",
+    "manifests/svnserve.pp": "6c83bf594749420e6c9ff266b6a234c6",
+    "manifests/working-copy.pp": "a08561c169e5b24f7edeff11ad7cd13c",
+    "manifests/xmlstarlet.pp": "42c4647c1fc74eebfa8a86a7a8bb0b71",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "templates/subversion-backup.sh.erb": "7ae48cd4d873a3045f3d5ee109eb46cb",
+    "tests/init.pp": "adc166dc7d5a3c55c3f80802ddcfd388"
+  },
+  "dependencies": []
+}
